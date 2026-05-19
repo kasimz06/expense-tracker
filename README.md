@@ -20,3 +20,11 @@ A lightweight desktop application built with Python and PyQt6 designed to log, f
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
    cd YOUR_REPOSITORY_NAME
+
+2. Install the required interface library:
+   ```bash
+   pip install PyQt6
+
+3. Launch the application:
+   ```bash
+   python simple_tracker.py
